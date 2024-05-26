@@ -8,7 +8,7 @@
 
 ## Entregas 3er trimestre
 
-- Archivo init con base de datos de peliculas
-- Frontend con dragula para aplicacion de lista de tareas
-- Pictochat
-- Juego + base de datos
+- Archivo init con base de datos de peliculas : https://github.com/JashBash03/Pelis.git
+- Frontend con dragula para aplicacion de lista de tareas : https://github.com/JashBash03/dragula.git
+- Pictochat : https://github.com/JashBash03/pictochat.git
+- Juego + base de datos : https://github.com/escavdam/proyecto_p5/tree/test-javi
