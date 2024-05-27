@@ -8,7 +8,7 @@
 
 ## Entregas 3er trimestre
 
-- Archivo init con base de datos de peliculas
-- Frontend con dragula para aplicacion de lista de tareas
-- Pictochat
-- Juego + base de datos
+- Archivo init con base de datos de peliculas ( https://github.com/LucST626/SQL )
+- Frontend con dragula para aplicacion de lista de tareas( https://github.com/LucST626/Tareas-To_Do )
+- Pictochat ( https://github.com/LucST626/pictochat-luc-/tree/ramalucas )
+- Juego + base de datos ( https://github.com/escavdam/proyecto_p5/tree/test_lucas )
