@@ -8,7 +8,7 @@
 
 ## Entregas 3er trimestre
 
-- Archivo init con base de datos de peliculas
-- Frontend con dragula para aplicacion de lista de tareas
-- Pictochat
-- Juego + base de datos
+- Archivo init con base de datos de peliculas  => https://github.com/Cristian727/PeliculasSQL
+- Frontend con dragula para aplicacion de lista de tareas => https://github.com/Cristian727/TO-DO
+- Pictochat => https://github.com/Cristian727/pictochat
+- Juego + base de datos => https://github.com/escavdam/proyecto_p5/tree/test-Cristian
