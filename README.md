@@ -8,7 +8,7 @@
 
 ## Entregas 3er trimestre
 
-- Archivo init con base de datos de peliculas
-- Frontend con dragula para aplicacion de lista de tareas
-- Pictochat
-- Juego + base de datos
+- Archivo init con base de datos de peliculas: https://github.com/MakramElghadir/sql-codebase
+- Frontend con dragula para aplicacion de lista de tareas: https://github.com/MakramElghadir/Dragula
+- Pictochat: https://github.com/MakramElghadir/pictochat-de-Makram
+- Juego + base de datos: https://github.com/escavdam/pictochat/tree/makram
